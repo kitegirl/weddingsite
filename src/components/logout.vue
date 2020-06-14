@@ -1,8 +1,6 @@
 <template>
     <div id="logout">
-        <section class="page-section">
         <h1>You are now logged out</h1>
-        </section>
     </div>
 </template>
 

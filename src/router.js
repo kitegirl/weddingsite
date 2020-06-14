@@ -4,6 +4,7 @@ import home from '@/components/home'
 import login from '@/components/login'
 import logout from '@/components/logout'
 
+
 Vue.use(Router)
 
 export default new Router({
